@@ -1,0 +1,13 @@
+{
+  "name": "elm-in-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "elm-hot": "^1.1.2",
+    "materialize-css": "^1.0.0-rc.2",
+    "node-elm-compiler": "^5.0.4",
+    "sass": "^1.22.10"
+  },
+  "dependencies": {}
+}
